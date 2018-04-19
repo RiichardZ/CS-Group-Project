@@ -1,1 +1,2 @@
-# CS-Group-Project
+# FarmTester
+*program name* is a program that gives farmers a rough plan of how their farm will run in xx years. It lets a user input a budget and the number of each type of farm animal they want. Taking the average price of a farm animal, the food required for them to survive and the prices for housing, the program will output how much revenue their farm will make in xx number of years and the products they sell (ex. eggs, beef etc). 
